@@ -27,6 +27,8 @@ services:
     command: cp -r /app/build/. /frontend_static/
     volumes:
       - static:/frontend_static
+    depends_on:
+      - backend
 
   gateway:
     image: artemnikolaich/kittygram_gateway
@@ -37,4 +39,4 @@ services:
     ports:
       - 9000:80
     depends_on:
-      - backend
+      - frontend

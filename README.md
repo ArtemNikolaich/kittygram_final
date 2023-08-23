@@ -1,4 +1,5 @@
 # Kittygram
+![](https://github.com/ArtemNikolaich/kittygram_final/actions/workflows/main.yml/badge.svg?event=push)
 
 ## Описание проекта
 
