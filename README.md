@@ -98,6 +98,3 @@ sudo service nginx reload
 - `Автор`: Калинин Артём
 - `GitHub`: [ArtemNikolaich](https://github.com/ArtemNikolaich)
 - `Email`: artyom.kalinin.tc@gmail.com
-
-
-
